@@ -1,10 +1,11 @@
 # Contrast-enhanced MRI Synthesis Using 3D High-Resolution ConvNets
 
 ## Data
-<div align=center><img src="https://github.com/chenchao666/HoMM-Master/blob/master/img/img1.PNG" width="450" /></div>
+<div align=center><img src="https://github.com/chenchao666/Contrast-enhanced-MRI-Synthesis/blob/master/img/fig1.png" width="450" /></div>
+* Illustration of brain MRI images from different modalities of the same subject. Three non-contrast brain MRI scans, including T1, T2, and Apparent Diffusion Coefficient (ADC), are utilized as inputs. The contrast-enhanced T1 (CE-T1) is utilized as the ground truth image. We aim to synthesize the CE-T1 from the precontrast (zero-dose) MRI scans by training a 3D FCN generator.
 
 
-* This repository contains code for our paper **HoMM: Higher-order Moment Matching for Unsupervised Domain Adaptation** [Download paper here](https://arxiv.org/abs/1912.11976)
+* This repository contains code for our paper **Contrast-enhanced MRI Synthesis Using 3D High-Resolution ConvNets** [Download paper here](https://arxiv.org/abs/1912.11976)
 * If you have any question about our paper or code, please don't hesitate to contact with me ahucomputer@126.com, we will update our repository accordingly
 
 ## Setup
