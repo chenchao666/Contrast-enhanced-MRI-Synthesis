@@ -1,7 +1,7 @@
 # Contrast-enhanced MRI Synthesis Using 3D High-Resolution ConvNets
 
 ## Data
-<div align=center><img src="https://github.com/chenchao666/Contrast-enhanced-MRI-Synthesis/blob/master/img/fig1.png" width="450" /></div>
+<div align=center><img src="https://github.com/chenchao666/Contrast-enhanced-MRI-Synthesis/blob/master/img/fig1.png" width="950" /></div>
 Three non-contrast brain MRI scans, including T1, T2, and Apparent Diffusion Coefficient (ADC), are utilized as inputs. The contrast-enhanced T1 (CE-T1) is utilized as the ground truth image. We aim to synthesize the CE-T1 from the precontrast (zero-dose) MRI scans by training a 3D FCN generator.
 
 
